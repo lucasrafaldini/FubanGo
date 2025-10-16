@@ -102,7 +102,7 @@ go test -race -bench . ./exemplos/... -benchmem
 ```bash
 go test -bench . ./exemplos/01-basicos/variaveis -benchmem > ruim.txt
 go test -bench . ./exemplos/01-basicos/variaveis -benchmem -run BenchmarkGood -benchmem > bom.txt
-benchstat bad.txt good.txt
+benchstat ruim.txt bom.txt
 ```
 
 Observação: alguns benchmarks ilustrativos podem depender de pacotes externos (por exemplo `golang.org/x/sync/errgroup`) — rode `go mod tidy` para buscar as dependências necessárias antes de executar os benchs.
