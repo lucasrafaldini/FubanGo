@@ -41,7 +41,7 @@ func PanicInsteadOfError(value int) int {
 
 **Como melhorar:**
 - Retornar error em vez de panic sempre que possível
-- Usar panic apenas para erros irrecuperáveis (e ainda assim fazer logging;)
+- Usar panic apenas para erros irrecuperáveis (e ainda assim fazer logging);
 - Documentar condições que causam panic claramente;
 - Considerar tipos de erro personalizados para diferentes falhas;
 - Manter consistência no tratamento de erros em toda a base de código.
