@@ -1,5 +1,4 @@
 package contextx
-package contextx
 
 import (
 	"context"

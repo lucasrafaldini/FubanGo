@@ -14,7 +14,7 @@ func UnbufferedBlockingChannel() {
 }
 ```
 **Problemas:**
-- Bloqueio desnecessário (deadlock potencial;)
+- Bloqueio desnecessário (deadlock potencial);
 - Performance reduzida;
 - Acoplamento temporal entre goroutines;
 - Desperdício de recursos (CPU);
