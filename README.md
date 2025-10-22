@@ -269,46 +269,17 @@ Observação: alguns benchmarks ilustrativos podem depender de pacotes externos 
 
 ## Roadmap
 
-### Fase 1: Completar Exemplos Go (Em Andamento)
-- [x] **Exemplos Básicos**: Variáveis, estruturas de controle, funções
-- [x] **Exemplos Intermediários**: Error handling, concorrência, interfaces  
-- [x] **Exemplos Avançados**: Goroutines, canais, context
-- [x] **Casos Reais**: API design, database, testes
-- [x] **Documentação**: Completar análises em português para todos os exemplos
+Para ver o plano completo de evolução do projeto, incluindo próximas fases, metas e cronograma detalhado, consulte o **[ROADMAP.md](ROADMAP.md)**.
 
-### Fase 2: Divulgação e Colaboração
-- [ ] **Comunidade**: Publicar em fóruns Go (Reddit, Discord, Slack)
-- [ ] **Redes Sociais**: Divulgar no Twitter, LinkedIn, dev.to, etc.
-- [ ] **Conferências**: Submeter palestras em eventos Go
-- [ ] **Colaboradores**: Recrutar contribuidores da comunidade
-- [ ] **Issues**: Criar issues para novos exemplos e melhorias
-- [ ] **Hacktoberfest**: Participar em eventos de código aberto
-- [ ] **Internacionalização**: Traduzir documentação para:
-  - [ ] **Inglês**: Expandir para desenvolvedores internacionais
-  - [ ] **Francês**: Mercado francófono e Canadá
-  - [ ] **Alemão**: Comunidade tech alemã e Europa Central
-  - [ ] **Mandarim**: Gigante mercado chinês de desenvolvedores
-  - [ ] **Espanhol**: Comunidade latino-americana
+**Status Atual:** Fase 1 - 100% Completa ✅ | [Ver detalhes →](ROADMAP.md)
 
-### Fase 3: Expansão Multi-linguagem
-- [ ] **JavaScript/TypeScript**: Exemplos de anti-padrões em JS/TS
-- [ ] **Python**: Código ruim famoso de bibliotecas Python antigas
-- [ ] **Java**: Exemplos de código legacy problemático
-- [ ] **C/C++**: Snippets de projetos famosos com problemas históricos
-- [ ] **Rust**: Exemplos de código "unsafe" mal utilizado
-- [ ] **PHP**: Código ruim de versões antigas do PHP
+## Licença
 
-### Fase 4: Projetos Históricos Famosos
-- [ ] **Linux Kernel**: Trechos problemáticos de versões antigas
-- [ ] **Apache HTTP Server**: Código legacy com problemas de segurança
-- [ ] **MySQL**: Implementações antigas com vazamentos de memória
-- [ ] **WordPress**: Código PHP problemático de versões antigas
-- [ ] **jQuery**: Exemplos de uso inadequado da biblioteca
-- [ ] **Bootstrap**: CSS/JS problemático de versões iniciais
+Este projeto está licenciado sob a [MIT License](LICENSE) - veja o arquivo LICENSE para mais detalhes.
 
+Copyright © 2025 Lucas Rafaldini
 
 ---
 
-**Status Atual**: Fase 1 - 80% completa  
-**Próximo Milestone**: Finalizar padronização dos exemplos Go  
-**Meta de 2024**: Completar Fases 1 e 2, iniciar Fase 3
+**Feito com ❤️ para a comunidade Go**  
+*"Aprendendo com os erros, evoluindo com os acertos"*
